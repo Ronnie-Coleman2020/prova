@@ -1,0 +1,14 @@
+EKSERE
+git config --global user.name 'miouser'
+git config --global user.email 'mioemail'
+git init
+git status
+git add 'nomefile'
+git add .
+git commit -m "messaggio da inserire"
+git log (per vedere quello è stato mandato precedentemente)
+git branch menuBranch--> crea nouvo
+git branch--> lo fa vedere
+git checkout master
+git merge nomeBranch
+git clone nomeRepository--> clone il file su github in locale
